@@ -2,4 +2,4 @@ flask
 gunicorn
 docx2txt
 PyPDF2
-sklearn
+scikit-learn
