@@ -1,0 +1,7 @@
+flask
+gunicorn
+os
+docx2txt
+PyPDF2
+sklearn.feature_extraction.text
+sklearn.metrics.pairwise
